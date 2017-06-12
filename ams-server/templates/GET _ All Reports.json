@@ -1,0 +1,108 @@
+{
+  "professor": {
+    "name": "Mohammed Sameh",
+    "pid": 12345678,
+    "courses": [
+      {
+        "name": "System Design",
+        "cid": "CS3103"
+      },
+      {
+        "name": "Information Security",
+        "cid": "CS4104"
+      },
+      
+    ]
+  },
+  "roperts": [
+    {
+      "course": {
+        "name": "Information Security",
+        "cid": "CS4104"
+      },
+      "date": "Thu 13/4/2017",
+      "time": "6:49",
+      "edits": 5,
+      "coordinates": {
+        "lat": 37.330576,
+        "lng": -122.029739
+      },
+      "students": [
+        {
+          "name": "Eslam Attia",
+          "sid": 20132245
+        },
+        {
+          "name": "Adham Khaled",
+          "sid": 20132040
+        },
+        {
+          "name": "Mahmoud Ibrahiem",
+          "sid": 20132014
+        },
+        {
+          "name": "Mohammed Osama",
+          "sid": 20132121
+        }
+      ]
+    },
+    {
+      "course": {
+        "name": "Information Security",
+        "cid": "CS4104"
+      },
+      "date": "Sat 8/4/2017",
+      "time": "6:49",
+      "edits": 5,
+      "coordinates": {
+        "lat": 37.330576,
+        "lng": -122.029739
+      },
+      "students": [
+        {
+          "name": "Amr Sami Elsayed",
+          "sid": 20132081
+        },
+        {
+          "name": "Mahmoud Ibrahiem",
+          "sid": 20132014
+        },
+        {
+          "name": "Mohammed Osama",
+          "sid": 20132121
+        }
+      ]
+    },
+    {
+      "course": {
+        "name": "Information Security",
+        "cid": "CS4104"
+      },
+      "date": "Sun 9/4/2017",
+      "time": "6:49",
+      "edits": 5,
+      "coordinates": {
+        "lat": 37.330576,
+        "lng": -122.029739
+      },
+      "students": [
+        {
+          "name": "Amr Sami Elsayed",
+          "sid": 20132081
+        },
+        {
+          "name": "Abdelrahman Mohammed",
+          "sid": 20132019
+        },
+        {
+          "name": "Eslam Attia",
+          "sid": 20132245
+        },
+        {
+          "name": "Adham Khaled",
+          "sid": 20132040
+        }
+      ]
+    }
+  ]
+}

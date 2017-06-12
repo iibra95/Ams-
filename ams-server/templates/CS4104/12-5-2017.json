@@ -1,0 +1,34 @@
+{
+  "professor": {
+    "name": "Mohammed Sameh",
+    "pid": 12345678,
+    "courses": [
+      {
+        "name": "System Design",
+        "cid": "CS3103"
+      },
+      {
+        "name": "Information Security",
+        "cid": "CS4104"
+      }
+      
+    ]
+  },
+  "course": {
+    "name": "Information Security",
+    "cid": "CS4104"
+  },
+  "date": "13",
+  "time": "6:49",
+  "edits": 5,
+  "coordinates": {
+    "lat": 37.330576,
+    "lng": -122.029739
+  },
+  "students": [
+    {
+      "name": "Eslam Attia",
+      "sid": 20132245
+    }
+  ]
+}
